@@ -4,7 +4,7 @@ public class Student {
 	private Integer id;
 	private String name;
 	private Integer age;
-	private Integer idcard;
+	private Integer i;
 	public Student() {}
 	public Student(String name, Integer age) {
 		super();
